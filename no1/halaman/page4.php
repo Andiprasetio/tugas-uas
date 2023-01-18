@@ -1,0 +1,2 @@
+<h1 style="color: white">PETA ANAK PT JAYA MAKMUR</h1>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4085434.7691763234!2d108.86604124030056!3d-0.4729526641470954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e0518178cebfebb%3A0xcd5ceced4c2148a0!2sKalimantan%20Barat!5e0!3m2!1sid!2sid!4v1674055343651!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
